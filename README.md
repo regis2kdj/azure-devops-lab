@@ -1,4 +1,4 @@
-# Proyecto para el curso de AzureDevOps
+# Proyecto para AzureDevOps Lab
 Proyecto usado para realizar la publicación a Azure a través de Azure DevOps.
 
 ## ¿Qué es el proyecto?
@@ -7,7 +7,7 @@ Un proyecto bastante simple que muestra un json en la ruta principal que nos ind
 ```
 {
   "enviroment": "Development",
-  "releaseDate": "2020-05-19T05:56:50.1707389Z"
+  "releaseDate": "2021-10-14T05:56:50.1707389Z"
 }
 ```
 
